@@ -39,6 +39,8 @@ A thorough feasibility analysis was conducted across five key criteria:
 4. **Operational:** Assessing organizational readiness and scalability.
 5. **Scheduling:** Ensuring timely delivery within project milestones.
 
+![Technical Solutions Comparison](assets/Tech%20sou%20table.png)
+
 ## ✨ System Features
 
 ### 1. User Registration & Profile Management
@@ -74,6 +76,7 @@ Detailed flowcharts map the user journey from onboarding to daily activities.
 ### State Machine Diagram
 Defines the behavior of the application across different user states.
 ![State Machine](assets/FSM.png)
+![Extended State Machine](assets/EFSM.png)
 
 ## 💻 Implementation Details
 
