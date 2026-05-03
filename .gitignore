@@ -1,0 +1,7 @@
+# Windows temporary files
+~$*
+*.tmp
+
+# User-specific files
+.DS_Store
+Thumbs.db
